@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">E-Commerce</string>
+    <string name="welcomed_message">Start typing here to start seeing products</string>
+    <string name="mo_product_message">Start searching in the search bar to see Products</string>
+    <string name="scroll_top">Scroll Top</string>
+    <string name="view_more">View More</string>
+</resources>
